@@ -22,3 +22,8 @@ driver.find_element(By.CSS_SELECTOR, "#ap_password_check")
 driver.find_element(By.CSS_SELECTOR, "#continue")
 driver.find_element(By.CSS_SELECTOR, "[href*='/gp/help/customer/display.html/ref=ap_register_notification_privacy_notice?ie=UTF8&nodeId=468496']")
 driver.find_element(By.CSS_SELECTOR, ".a-link-emphasis")
+
+git status
+git add <file_name>
+git commit -m 'Commit message'
+git push origin main
